@@ -1,0 +1,22 @@
+{
+  "name": "jest-globals-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "foo.js",
+  "scripts": {
+    "test": "jest test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcollina/jest-globals-example.git"
+  },
+  "author": "Matteo Collina <hello@matteocollina.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mcollina/jest-globals-example/issues"
+  },
+  "homepage": "https://github.com/mcollina/jest-globals-example#readme",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
